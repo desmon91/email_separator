@@ -1,0 +1,16 @@
+{
+  "name": "semantic-ui-example",
+  "version": "1.0.0",
+  "description": "An exported example from Semantic UI React, https://react.semantic-ui.com/",
+  "main": "index.js",
+  "dependencies": {
+    "@stardust-ui/docs-components": "latest",
+    "faker": "latest",
+    "lodash": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "semantic-ui-react": "latest",
+    "react-scripts": "latest"
+  }
+}
